@@ -3326,4 +3326,32 @@ input, select, textarea {
 				padding: 0 1.25em;
 			}
 
-		}
+        }
+        
+/* Modal*/
+.modal-dialog {
+    max-width: 800px;
+    margin: 9.75rem auto !important;
+    max-width: 762px !important;
+}
+
+.modal-body {
+    position: relative;
+    padding: 0.5rem !important;
+}
+
+.close {
+    position: absolute;
+    right: -30px;
+    top: 0;
+    z-index: 999;
+    font-size: 2rem;
+    font-weight: normal;
+    color: #fff;
+    opacity: 1;
+}
+
+/* @media (min-width: 576px) 
+.modal-dialog {
+    max-width: 762px !important;
+} */
