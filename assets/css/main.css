@@ -212,7 +212,7 @@ input, select, textarea {
 
 	h2 {
         font-size: 1.1em;
-        color: #F87060 !important;
+        /* color: #F87060 !important; */
 	}
 
 	h3 {
