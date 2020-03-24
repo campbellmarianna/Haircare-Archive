@@ -3,6 +3,8 @@
 
 A webapp to inform and inspire those with kinky, curly, coily, non straight hair that their are methods and ingredients that care for your hair. This webapp also includes videos. 
 
+Website: https://campbellmarianna.github.io/Haircare-Archive/
+
 ### Content Credits
 - [Miss Sahel](https://www.youtube.com/channel/UCSckTng5AtHyTxKQGpXJDpQ)
 - [New China TV](https://www.youtube.com/channel/UCHBDXQDmqnaqIEPdEapEFVQ)
