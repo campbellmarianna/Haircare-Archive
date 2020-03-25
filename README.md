@@ -5,7 +5,7 @@ A webapp to inform and inspire those with kinky, curly, coily, non straight hair
 
 Website: https://campbellmarianna.github.io/Haircare-Archive/
 
-# Installation
+## Installation
 '''
 git clone https://github.com/campbellmarianna/Haircare-Archive.git
 cd Haircare-Archive
